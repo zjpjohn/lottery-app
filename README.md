@@ -1,16 +1,7 @@
 # lottery_app
 
-A new Flutter project.
+   一名java后端仔，去年兴趣使然学习flutter时实现的彩票客户端，本项目是自己准备上应用市场时实现的andriod应用，由于政策原因，彩票类关键词管控很严，无法上应用市场；于是开源出来和大家一起分享学习。  
+   
+   本项目flutter版本最早使用的是1.12，后面升级到1.17。本项项目主要是对常见彩种如福彩3D、排列三、双色球、大乐透以及七乐彩五种彩票的预测、开奖等功能，主要功能有预测、查看开奖信息、充值、签到、积分以及发布预测等功能。本项目只对andriod端实现，没有做ios，如果需要服务器端代码可以联系我。
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
