@@ -12,37 +12,37 @@
 
 | 登录页                   | 签到页                  |
 |-----------------------|----------------------|
-| ![登录页](images/11.jpg) | ![签到页](images/6.jpg) |
+| ![登录页](https://cdn.icaiwa.com/git/lottery/11.jpg) | ![签到页](https://cdn.icaiwa.com/git/lottery/6.jpg) |
 
 | 个人中心                  | 积分账户                   |
 |-----------------------|------------------------|
-| ![个人中心](images/5.jpg) | ![积分账户](images/15.jpg) |
+| ![个人中心](https://cdn.icaiwa.com/git/lottery/5.jpg) | ![积分账户](https://cdn.icaiwa.com/git/lottery/15.jpg) |
 
 | 预测频道                  | 会员中心                   |
 |-----------------------|------------------------|
-| ![预测频道](images/2.jpg) | ![会员中心](images/16.jpg) |
+| ![预测频道](https://cdn.icaiwa.com/git/lottery/2.jpg) | ![会员中心](https://cdn.icaiwa.com/git/lottery/16.jpg) |
 
-| 专家详情                   | 预测预测                   |
+| 专家详情                   | 预测详情                   |
 |------------------------|------------------------|
-| ![专家详情](images/17.jpg) | ![预测详情](images/18.jpg) |
+| ![专家详情](https://cdn.icaiwa.com/git/lottery/17.jpg) | ![预测详情](https://cdn.icaiwa.com/git/lottery/18.jpg) |
 
 | 开奖中心                  | 3D频道                  |
 |-----------------------|-----------------------|
-| ![开奖中心](images/3.jpg) | ![3D频道](images/2.jpg) |
+| ![开奖中心](https://cdn.icaiwa.com/git/lottery/3.jpg) | ![3D频道](https://cdn.icaiwa.com/git/lottery/2.jpg) |
 
 | 预警分析                  | 选号走势                   |
 |-----------------------|------------------------|
-| ![预警分析](images/9.jpg) | ![选号走势](images/10.jpg) |
+| ![预警分析](https://cdn.icaiwa.com/git/lottery/9.jpg) | ![选号走势](https://cdn.icaiwa.com/git/lottery/10.jpg) |
 
 | 智能指数                   | 大底缩水                  |
 |------------------------|-----------------------|
-| ![智能指数](images/12.jpg) | ![大底缩水](images/8.jpg) |
+| ![智能指数](https://cdn.icaiwa.com/git/lottery/12.jpg) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/8.jpg) |
 
 ### 新版app下载体验二维码
 
 ##### 手机浏览器扫一扫下载app体验最新功能
 
-![体验二维码](images/14.jpg)
+![体验二维码](https://cdn.icaiwa.com/git/lottery/14.jpg)
 
 
 
