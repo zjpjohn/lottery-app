@@ -12,37 +12,37 @@
 
 | 登录页                   | 签到页                  |
 |-----------------------|----------------------|
-| ![登录页](https://cdn.icaiwa.com/git/lottery/11.jpg) | ![签到页](https://cdn.icaiwa.com/git/lottery/6.jpg) |
+| ![登录页](https://cdn.icaiwa.com/git/lottery/11.jpg?x-oss-process=image/resize,w_250) | ![签到页](https://cdn.icaiwa.com/git/lottery/6.jpg?x-oss-process=image/resize,w_250) |
 
 | 个人中心                  | 积分账户                   |
 |-----------------------|------------------------|
-| ![个人中心](https://cdn.icaiwa.com/git/lottery/5.jpg) | ![积分账户](https://cdn.icaiwa.com/git/lottery/15.jpg) |
+| ![个人中心](https://cdn.icaiwa.com/git/lottery/5.jpg?x-oss-process=image/resize,w_250) | ![积分账户](https://cdn.icaiwa.com/git/lottery/15.jpg?x-oss-process=image/resize,w_250) |
 
 | 预测频道                  | 会员中心                   |
 |-----------------------|------------------------|
-| ![预测频道](https://cdn.icaiwa.com/git/lottery/2.jpg) | ![会员中心](https://cdn.icaiwa.com/git/lottery/16.jpg) |
+| ![预测频道](https://cdn.icaiwa.com/git/lottery/2.jpg?x-oss-process=image/resize,w_250) | ![会员中心](https://cdn.icaiwa.com/git/lottery/16.jpg?x-oss-process=image/resize,w_250) |
 
 | 专家详情                   | 预测详情                   |
 |------------------------|------------------------|
-| ![专家详情](https://cdn.icaiwa.com/git/lottery/17.jpg) | ![预测详情](https://cdn.icaiwa.com/git/lottery/18.jpg) |
+| ![专家详情](https://cdn.icaiwa.com/git/lottery/17.jpg?x-oss-process=image/resize,w_250) | ![预测详情](https://cdn.icaiwa.com/git/lottery/18.jpg?x-oss-process=image/resize,w_250) |
 
 | 开奖中心                  | 3D频道                  |
 |-----------------------|-----------------------|
-| ![开奖中心](https://cdn.icaiwa.com/git/lottery/3.jpg) | ![3D频道](https://cdn.icaiwa.com/git/lottery/2.jpg) |
+| ![开奖中心](https://cdn.icaiwa.com/git/lottery/3.jpg?x-oss-process=image/resize,w_250) | ![3D频道](https://cdn.icaiwa.com/git/lottery/2.jpg?x-oss-process=image/resize,w_250) |
 
 | 预警分析                  | 选号走势                   |
 |-----------------------|------------------------|
-| ![预警分析](https://cdn.icaiwa.com/git/lottery/9.jpg) | ![选号走势](https://cdn.icaiwa.com/git/lottery/10.jpg) |
+| ![预警分析](https://cdn.icaiwa.com/git/lottery/9.jpg?x-oss-process=image/resize,w_250) | ![选号走势](https://cdn.icaiwa.com/git/lottery/10.jpg?x-oss-process=image/resize,w_250) |
 
 | 智能指数                   | 大底缩水                  |
 |------------------------|-----------------------|
-| ![智能指数](https://cdn.icaiwa.com/git/lottery/12.jpg) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/8.jpg) |
+| ![智能指数](https://cdn.icaiwa.com/git/lottery/12.jpg?x-oss-process=image/resize,w_250) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/8.jpg?x-oss-process=image/resize,w_250) |
 
 ### 新版app下载体验二维码
 
 ##### 手机浏览器扫一扫下载app体验最新功能
 
-![体验二维码](https://cdn.icaiwa.com/git/lottery/14.jpg)
+![体验二维码](https://cdn.icaiwa.com/git/lottery/14.jpg?x-oss-process=image/resize,w_250)
 
 
 
