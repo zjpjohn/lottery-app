@@ -35,9 +35,17 @@
 |-----------------------|------------------------|
 | ![预警分析](https://cdn.icaiwa.com/git/lottery/9.jpg?x-oss-process=image/resize,w_250) | ![选号走势](https://cdn.icaiwa.com/git/lottery/10.jpg?x-oss-process=image/resize,w_250) |
 
-| 智能指数                   | 大底缩水                  |
-|------------------------|-----------------------|
-| ![智能指数](https://cdn.icaiwa.com/git/lottery/12.jpg?x-oss-process=image/resize,w_250) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/8.jpg?x-oss-process=image/resize,w_250) |
+| 智能指数                                                                                | 大底缩水                                                                                |
+|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| ![智能指数](https://cdn.icaiwa.com/git/lottery/12.jpg?x-oss-process=image/resize,w_250) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/8.jpg?x-oss-process=image/resize,w_250)  |
+
+| 会员抽奖                                                                                | 彩票助手                                                                                |
+| ------------------------                                                            | -----------------------                                                             |
+| ![智能指数](https://cdn.icaiwa.com/git/lottery/20.jpg?x-oss-process=image/resize,w_250) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/19.jpg?x-oss-process=image/resize,w_250) |
+
+| 代金券                                                                                 | 关注收藏                                                                                |
+| ------------------------                                                            | -----------------------                                                             |
+| ![智能指数](https://cdn.icaiwa.com/git/lottery/21.jpg?x-oss-process=image/resize,w_250) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/22.jpg?x-oss-process=image/resize,w_250) |
 
 ### 新版app下载体验二维码
 
