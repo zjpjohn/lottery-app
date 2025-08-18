@@ -12,7 +12,9 @@
 新版架构重新设计
 
 app端新版仓库:https://github.com/zjpjohn/prize_lottery_app
+
 服务端项目仓库:https://github.com/zjpjohn/prize-lottery-backend
+
 管理端前端仓库:https://github.com/zjpjohn/prize-lottery-front
 
 欢迎下载源码学习，如有私有化部署需求或指导请联系(添加微信-zjpcomeon 备注-lottery-app部署)
