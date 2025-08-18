@@ -9,6 +9,14 @@
 
 本项目只对andriod端实现，没有做ios，如果有需要可以联系我(微信 zjpcomeon 加我备注-github lottery-app)。
 
+新版架构重新设计
+
+app端新版仓库:https://github.com/zjpjohn/prize_lottery_app
+服务端项目仓库:https://github.com/zjpjohn/prize-lottery-backend
+管理端前端仓库:https://github.com/zjpjohn/prize-lottery-front
+
+欢迎下载源码学习，如有私有化部署需求或指导请联系(添加微信-zjpcomeon 备注-lottery-app部署)
+
 ### 应用截图
 
 | 登录页                   | 签到页                  |
