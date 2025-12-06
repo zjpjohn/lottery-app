@@ -7,7 +7,7 @@
 
 本app有许多特色功能，欢迎下载体验最新版本，会有意想不到的收获。
 
-本项目只对andriod端实现，没有做ios，如果有需要可以联系我(微信 zjpcomeon 加我备注-github lottery-app)。
+本项目只对andriod端实现，没有做ios，如果有需要可以联系我(Telegram @jpchou  说明github lottery-app)。
 
 新版架构重新设计
 
