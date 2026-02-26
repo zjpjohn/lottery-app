@@ -5,7 +5,7 @@
 本项目flutter版本最早使用1.17版本，现已升级到最新3.24版本并进行重大改版。本项项目主要是对常见彩种如福彩3D、排列三、双色球、大乐透以及七乐彩五种彩票的预测、开奖、号码走势等等，
 主要功能有预测、开奖、预警分析、选号走势、支付会员、签到、积分、广告以及会员抽奖等丰富功能。
 
-本项目只对andriod端实现，没有做ios，如果有需要可以联系我(Telegram @jpchou  说明github lottery-app)。
+本项目只对andriod端实现，没有做ios，有更多想法需求请联系我(Telegram @jpchou  说明github lottery-app)。
 
 新版架构重新设计
 
@@ -15,9 +15,12 @@ app端新版仓库:https://github.com/zjpjohn/prize_lottery_app
 
 管理端前端仓库:https://github.com/zjpjohn/prize-lottery-front
 
-欢迎下载源码学习，如有私有化部署需求或指导请联系(添加微信-zjpcomeon 备注-lottery-app部署)
-
-### 应用截图
+| 更多截图赏析                                                                           | 更多截图赏析                                                                           |
+|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_250) |
 
 | 登录页                   | 签到页                  |
 |-----------------------|----------------------|
@@ -55,12 +58,6 @@ app端新版仓库:https://github.com/zjpjohn/prize_lottery_app
 | ------------------------                                                            | -----------------------                                                             |
 | ![智能指数](https://cdn.icaiwa.com/git/lottery/21.jpg?x-oss-process=image/resize,w_250) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/22.jpg?x-oss-process=image/resize,w_250) |
 
-| 更多截图赏析                                                                           | 更多截图赏析                                                                           |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_250) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_250) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_250) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_250) |
 
 
 
