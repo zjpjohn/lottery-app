@@ -57,12 +57,12 @@ app端新版仓库:https://github.com/zjpjohn/prize_lottery_app
 | ------------------------                                                            | -----------------------                                                             |
 | ![智能指数](https://cdn.icaiwa.com/git/lottery/21.jpg?x-oss-process=image/resize,w_250) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/22.jpg?x-oss-process=image/resize,w_250) |
 
-| 更多截图赏析 | 更多截图赏析                                                                           |
-|------------------------------------|----------------------------------------------------------------------------------|
-| ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_320) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_320) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_320) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_320) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_320) |
+| 更多截图赏析                                                                           | 更多截图赏析                                                                           |
+|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_250) |
 
 
 
