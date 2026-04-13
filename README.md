@@ -15,16 +15,19 @@ app端新版仓库:https://github.com/zjpjohn/prize_lottery_app
 
 管理端前端仓库:https://github.com/zjpjohn/prize-lottery-front
 
-| 更多截图赏析                                                                           | 更多截图赏析                                                                           |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ![综合排名](https://cdn.icaiwa.com/open/app/39.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_250) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_250) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_250) |
-| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_250) |
-
 | 登录页                   | 签到页                  |
 |-----------------------|----------------------|
 | ![登录页](https://cdn.icaiwa.com/git/lottery/11.jpg?x-oss-process=image/resize,w_250) | ![签到页](https://cdn.icaiwa.com/git/lottery/6.jpg?x-oss-process=image/resize,w_250) |
+
+| 更多截图                                                                           | 更多截图                                                                          |
+|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| ![综合排名](https://cdn.icaiwa.com/open/app/30.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/31.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/32.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/33.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/34.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/35.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/36.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/37.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/38.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/39.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/40.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/41.jpg?x-oss-process=image/resize,w_250) |
+| ![综合排名](https://cdn.icaiwa.com/open/app/42.jpg?x-oss-process=image/resize,w_250) | ![分类排名](https://cdn.icaiwa.com/open/app/43.jpg?x-oss-process=image/resize,w_250) |
 
 | 个人中心                  | 积分账户                   |
 |-----------------------|------------------------|
